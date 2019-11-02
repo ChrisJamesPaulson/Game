@@ -1,0 +1,20 @@
+{
+    "mapSprites": [ 
+        "assets/background/tile/1.png",
+        "assets/background/tile/2.png",
+        "assets/background/tile/3.png",
+        "assets/background/tile/4.png",
+        "assets/background/tile/5.png",
+        "assets/background/tile/6.png",
+        "assets/background/tile/7.png",
+        "assets/background/tile/8.png",
+        "assets/background/tile/9.png",
+        "assets/background/tile/10.png",
+        "assets/background/tile/11.png",
+        "assets/background/tile/12.png",
+        "assets/background/tile/13.png",
+        "assets/background/tile/14.png",
+        "assets/background/tile/15.png",
+        "assets/background/tile/16.png"
+    ]
+}

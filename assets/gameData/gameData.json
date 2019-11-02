@@ -1,0 +1,17 @@
+{
+    "player": {
+        "speed": 0.2,
+        "walkSprite": "assets/Sprite/flatboy/walk.png",
+        "idleSprite": "assets/Sprite/flatboy/idle.png",
+        "walkSound": "assets/sounds/walking/walk.wav",
+        "walkSoundSpeed": 2,
+        "sheet": {
+            "x": 128,
+            "y": 128
+        },
+        "size": {
+            "x": 128,
+            "y": 128
+        }
+    }
+}
