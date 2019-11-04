@@ -1,6 +1,6 @@
 {
     "player": {
-        "speed": 1,
+        "speed": 5,
         "walkAnimationSpeed": 0.5,
         "idleAnimationSpeed": 0.2,
         "walkSprite": "assets/Sprite/flatboy/walk.png",
