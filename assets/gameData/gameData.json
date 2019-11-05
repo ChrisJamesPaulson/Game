@@ -3,10 +3,13 @@
         "speed": 5,
         "walkAnimationSpeed": 0.5,
         "idleAnimationSpeed": 0.2,
+        "jumpAnimationSpeed": 0.2,
         "walkSprite": "assets/Sprite/flatboy/walk.png",
         "idleSprite": "assets/Sprite/flatboy/idle.png",
+        "jumpSprite": "assets/Sprite/flatboy/jump.png",
         "walkSound": "assets/sounds/walking/walk.wav",
         "walkSoundSpeed": 2,
+        "moveAmount": 128,
         "sheet": {
             "x": 128,
             "y": 128
