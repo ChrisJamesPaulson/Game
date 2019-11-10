@@ -1,5 +1,6 @@
 {
     "mapSprites": [ 
+        "assets/background/tile/0.png",
         "assets/background/tile/1.png",
         "assets/background/tile/2.png",
         "assets/background/tile/3.png",
@@ -15,6 +16,13 @@
         "assets/background/tile/13.png",
         "assets/background/tile/14.png",
         "assets/background/tile/15.png",
-        "assets/background/tile/16.png"
+        "assets/background/tile/16.png",
+        "assets/background/tile/17.png",
+        "assets/background/tile/18.png",
+        "assets/background/tile/19.png",
+        "assets/background/tile/20.png",
+        "assets/background/tile/21.png",
+        "assets/background/tile/22.png",
+        "assets/background/tile/23.png"
     ]
 }
