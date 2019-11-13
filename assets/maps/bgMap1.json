@@ -6,7 +6,7 @@
         },
         "data": {
             "platform": {
-                "moveY": 5,
+                "moveY": 2,
                 "speedY": 0.003
             }
         }

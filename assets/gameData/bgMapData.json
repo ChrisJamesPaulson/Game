@@ -1,8 +1,8 @@
 {
-    "mapTileMap": "assets/maps/map1.txt",
-    "mapDetails": "assets/maps/map1.json",
-    "mapSpeed": {"x": 1, "y": 1},
-    "hasPhysicBodies": true,
+    "mapTileMap": "assets/maps/bgMap1.txt",
+    "mapDetails": "assets/maps/bgMap1.json",
+    "mapSpeed": {"x": 0.5, "y": 0.5},
+    "hasPhysicBodies": false,
     "mapSprites": [ 
         "assets/background/tile/0.png",
         "assets/background/tile/1.png",
@@ -27,6 +27,7 @@
         "assets/background/tile/20.png",
         "assets/background/tile/21.png",
         "assets/background/tile/22.png",
+        "assets/background/tile/23.png",
         "assets/background/objects/bush(1).png",
         "assets/background/objects/bush(2).png",
         "assets/background/objects/bush(3).png",
