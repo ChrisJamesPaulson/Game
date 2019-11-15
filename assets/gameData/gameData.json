@@ -9,7 +9,7 @@
         "jumpSprite": "assets/Sprite/flatboy/jump.png",
         "walkSound": "assets/sounds/walking/walk.wav",
         "walkSoundSpeed": 2,
-        "moveAmount": 128,
+        "moveAmount": 32,
         "sheet": {
             "x": 128,
             "y": 128
