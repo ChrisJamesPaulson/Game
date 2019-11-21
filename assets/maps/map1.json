@@ -5,6 +5,7 @@
             "y": 12
         },
         "data": {
+            "name": "moveing platform",
             "platform": {
                 "moveY": 2,
                 "speedY": 0.003
