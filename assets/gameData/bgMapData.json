@@ -1,6 +1,5 @@
 {
-    "mapTileMap": "assets/maps/bgMap1.txt",
-    "mapDetails": "assets/maps/bgMap1.json",
+    "mapTileMap": "assets/maps/bgMap1.json",
     "mapSpeed": {"x": 0.5, "y": 1},
     "positionOffset": {"x": 0, "y": 64},
     "hasPhysicBodies": false,

@@ -1,6 +1,5 @@
 {
-    "mapTileMap": "assets/maps/map1.txt",
-    "mapDetails": "assets/maps/map1.json",
+    "mapTileMap": "assets/maps/map1.json",
     "mapSpeed": {"x": 1, "y": 1},
     "positionOffset": {"x": 0, "y": 0},
     "hasPhysicBodies": true,
