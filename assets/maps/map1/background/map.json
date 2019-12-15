@@ -1,6 +1,6 @@
 {
-    "mapTileMap": "assets/maps/bgMap1.json",
-    "mapSpeed": {"x": 0.5, "y": 1},
+    "mapTileMap": "assets/maps/map1/background/tiles.json",
+    "mapSpeed": {"x": 0.5, "y": 0.5},
     "positionOffset": {"x": 0, "y": 64},
     "hasPhysicBodies": false,
     "mapSprites": [ 
@@ -48,6 +48,13 @@
         {"image": "assets/background/objects/tree_3.png", "Id": "Q"},
         {"image": "assets/background/objects/stone.png", "Id": "R"},
         {"image": "assets/background/objects/cloud.png", "Id": "*"},
-        {"image": "assets/background/objects/bigcloud.png", "Id": "&"}
+        {"image": "assets/background/objects/bigcloud.png", "Id": "&"},
+        {"image": "assets/background/objects/stone_2.png", "Id": "S"},
+        {"image": "assets/background/objects/skeleton.png", "Id": "T"},
+        {"image": "assets/background/objects/sign_right.png", "Id": "U"},
+        {"image": "assets/background/objects/stone_block.png", "Id": "V"},
+        {"image": "assets/background/tile/32.png", "Id": "="},
+        {"image": "assets/background/tile/33.png", "Id": "="},
+        {"image": "assets/background/tile/34.png", "Id": "="}
     ]
 }

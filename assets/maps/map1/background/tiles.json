@@ -1,0 +1,178 @@
+[
+	{
+		"spriteNumber": 44,
+		"position": {
+			"x": 7,
+			"y": 3
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 41,
+		"position": {
+			"x": 8,
+			"y": 6
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 40,
+		"position": {
+			"x": 10,
+			"y": 6
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 39,
+		"position": {
+			"x": 13,
+			"y": 6
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 27,
+		"position": {
+			"x": 17,
+			"y": 6
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 26,
+		"position": {
+			"x": 6,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 49,
+		"position": {
+			"x": 7,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 8,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 9,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 10,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 11,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 26,
+		"position": {
+			"x": 12,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 26,
+		"position": {
+			"x": 13,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 50,
+		"position": {
+			"x": 14,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 49,
+		"position": {
+			"x": 15,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 25,
+		"position": {
+			"x": 16,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 25,
+		"position": {
+			"x": 17,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 25,
+		"position": {
+			"x": 18,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 19,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 20,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 21,
+			"y": 7
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 23,
+		"position": {
+			"x": 22,
+			"y": 7
+		},
+		"tileData": null
+	}
+]

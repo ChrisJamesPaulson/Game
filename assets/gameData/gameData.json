@@ -14,9 +14,44 @@
             "x": 128,
             "y": 128
         },
+        "bodySize": {
+            "x": 65,
+            "y": 128
+        },
         "size": {
             "x": 128,
             "y": 128
+        }
+    },
+    "physics": {
+        "density": {
+            "player": 0.3,
+            "crate": 0.1,
+            "rock": 0.8,
+            "scenery": 0.8,
+            "ball": 0.001,
+            "water": 0.5
+        },
+        "frictionAir": {
+            "player": 0.01,
+            "ball": 0.06,
+            "crate": 0.03,
+            "water": 0.01
+        },
+        "friction": {
+            "player": 0.01,
+            "ball": 0.01,
+            "crate": 0.1,
+            "water": 0.2
+        },
+        "frictionStatic": {
+            "player": 0.1
+        },
+        "restitution": {
+            "player": 0.1,
+            "ball": 0.01,
+            "crate": 0.1,
+            "water": 0.2
         }
     }
 }
