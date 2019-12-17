@@ -1,9 +1,521 @@
 [
 	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 33,
+			"y": 11
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 32,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 33,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 34,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 35,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 36,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 37,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 38,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 39,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 40,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 41,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 42,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 43,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 44,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 45,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 46,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 47,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 48,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 49,
+			"y": 12
+		},
+		"tileData": null
+	},
+	{
 		"spriteNumber": 47,
 		"position": {
 			"x": 11,
 			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 29,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 30,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 31,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 32,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 33,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 34,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 35,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 36,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 37,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 38,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 39,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 40,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 41,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 42,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 43,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 44,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 45,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 46,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 47,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 48,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 49,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 50,
+			"y": 13
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 53,
+		"position": {
+			"x": 29,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 30,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 31,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 32,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 33,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 34,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 35,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 36,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 37,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 38,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 55,
+		"position": {
+			"x": 39,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 40,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 41,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 42,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 43,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 44,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 45,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 46,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 47,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 48,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 49,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 50,
+			"y": 14
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 52,
+		"position": {
+			"x": 51,
+			"y": 14
 		},
 		"tileData": null
 	}

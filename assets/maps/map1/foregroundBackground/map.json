@@ -55,6 +55,10 @@
         {"image": "assets/background/objects/stone_block.png", "Id": "V"},
         {"image": "assets/background/tile/32.png", "Id": "="},
         {"image": "assets/background/tile/33.png", "Id": "="},
-        {"image": "assets/background/tile/34.png", "Id": "="}
+        {"image": "assets/background/tile/34.png", "Id": "="},
+        {"image": "assets/background/tile/36.png", "Id": "="},
+        {"image": "assets/background/tile/37.png", "Id": "="},
+        {"image": "assets/background/tile/38.png", "Id": "="},
+        {"image": "assets/background/tile/39.png", "Id": "="}
     ]
 }

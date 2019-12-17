@@ -1,5 +1,29 @@
 [
 	{
+		"spriteNumber": 41,
+		"position": {
+			"x": 11,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 39,
+		"position": {
+			"x": 13,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 39,
+		"position": {
+			"x": 14,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
 		"spriteNumber": 29,
 		"position": {
 			"x": 31,
@@ -60,6 +84,86 @@
 		"position": {
 			"x": 40,
 			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 45,
+		"position": {
+			"x": 45,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 42,
+		"position": {
+			"x": 46,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 29,
+		"position": {
+			"x": 49,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 42,
+		"position": {
+			"x": 50,
+			"y": 21
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 49,
+		"position": {
+			"x": 10,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 11,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 12,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 13,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 14,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 50,
+		"position": {
+			"x": 15,
+			"y": 22
 		},
 		"tileData": null
 	},
@@ -155,6 +259,22 @@
 		"spriteNumber": 50,
 		"position": {
 			"x": 41,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 33,
+		"position": {
+			"x": 42,
+			"y": 22
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 36,
+		"position": {
+			"x": 43,
 			"y": 22
 		},
 		"tileData": null
