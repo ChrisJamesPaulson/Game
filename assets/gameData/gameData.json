@@ -4,12 +4,18 @@
         "walkAnimationSpeed": 0.5,
         "idleAnimationSpeed": 0.2,
         "jumpAnimationSpeed": 0.2,
+        "dieAnimationSpeed": 0.2,
         "walkSprite": "assets/Sprite/flatboy/walk.png",
         "idleSprite": "assets/Sprite/flatboy/idle.png",
         "jumpSprite": "assets/Sprite/flatboy/jump.png",
+        "dieSprite": "assets/Sprite/flatboy/dead.png",
         "walkSound": "assets/sounds/walking/walk.wav",
         "walkSoundSpeed": 2,
         "moveAmount": 32,
+        "dieSheetSize": {
+            "x": 140,
+            "y": 128
+        },
         "sheet": {
             "x": 128,
             "y": 128
@@ -20,6 +26,10 @@
         },
         "size": {
             "x": 128,
+            "y": 128
+        },
+        "dieSize": {
+            "x": 140,
             "y": 128
         }
     },

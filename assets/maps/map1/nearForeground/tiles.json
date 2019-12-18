@@ -344,6 +344,30 @@
 		"tileData": null
 	},
 	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 15,
+			"y": 23
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 26,
+		"position": {
+			"x": 16,
+			"y": 23
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 50,
+		"position": {
+			"x": 17,
+			"y": 23
+		},
+		"tileData": null
+	},
+	{
 		"spriteNumber": 23,
 		"position": {
 			"x": 30,
@@ -516,6 +540,38 @@
 		"position": {
 			"x": 51,
 			"y": 23
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 15,
+			"y": 24
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 16,
+			"y": 24
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 51,
+		"position": {
+			"x": 17,
+			"y": 24
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 50,
+		"position": {
+			"x": 18,
+			"y": 24
 		},
 		"tileData": null
 	}

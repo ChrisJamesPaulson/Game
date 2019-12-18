@@ -5472,6 +5472,54 @@
 	{
 		"spriteNumber": 5,
 		"position": {
+			"x": 17,
+			"y": 17
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 5,
+		"position": {
+			"x": 18,
+			"y": 17
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 5,
+		"position": {
+			"x": 19,
+			"y": 17
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 5,
+		"position": {
+			"x": 20,
+			"y": 17
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 5,
+		"position": {
+			"x": 21,
+			"y": 17
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 5,
+		"position": {
+			"x": 22,
+			"y": 17
+		},
+		"tileData": null
+	},
+	{
+		"spriteNumber": 5,
+		"position": {
 			"x": 39,
 			"y": 17
 		}
